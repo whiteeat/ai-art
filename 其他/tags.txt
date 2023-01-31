@@ -1,0 +1,8 @@
+氛围
+masterpiece, cinematic lightening, highly detailed lightening, highly detailed shadows
+
+火焰书
+/t2i fire,book,{{{burning books}}},magic,build,{{{items}}}
+
+小恶魔画画 {best quality}, {masterpiece}, {highres}, 1girl,{mecha},{monochrome}, {gray scale}, {line art},offical art,{Imaishi Hiroyuki},gainax, {ghost in the shell},Blade Runner
+
